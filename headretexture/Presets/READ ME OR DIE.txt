@@ -1,0 +1,18 @@
+[RETEX] New MP Female Head Texture 0.8 BETA
+
+PRESET TUTORIAL
+------------------
+
+Now here's the tricky part
+
+1. Download Menyoo to use the Outfit option.
+   (https://www.gta5-mods.com/scripts/menyoo-pc-sp) <--- Get this awesome mod now!!
+
+2. Extract and paste the preset xmls into
+
+   (GTA V Game Folder)/menyooStuff/Outfit
+
+3. Open the game and access Menyoo, load the presets through Outfit Option
+
+
+That's it enjoy my decent looking presets!
